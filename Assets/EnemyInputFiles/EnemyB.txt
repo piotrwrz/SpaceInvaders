@@ -1,0 +1,12 @@
+EasyDamage = 1
+EasyShotFrequency = 5,0
+EasyReloadTime = 1,5
+EasyScore = 150
+MediumDamage = 1
+MediumShotFrequency = 10,0
+MediumReloadTime = 2,1
+MediumScore = 200
+HardDamage = 2
+HardShotFrequency = 13,0
+HardReloadTime = 1,7
+HardScore = 250
